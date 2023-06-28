@@ -1,6 +1,6 @@
 # CRUD_operation_in_php
 
-Hi Friends this time I am used PHP AND MYSQL to create an Construction Website like CRUD OPERATION 
+Hi Friends this time I am used **PHP AND MYSQL** to create an Construction Website like **CRUD OPERATION** 
 
 Used language are **HTML5, CSS, BOOTSTRAP5, JAVASCRIPT, JQUERY, MYSQL, PHP.**
 
