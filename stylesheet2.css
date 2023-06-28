@@ -1,0 +1,35 @@
+#body2{
+    height:40vw;
+    width:25vw;
+    background-color:rgb(126, 109, 112);
+    margin-top:4vw;
+    margin-left:35vw;
+    padding-top:0.5vw;
+    box-shadow:5px 10px 10px 0px;
+    border-radius: 10px;
+}
+#body3{
+    height:30vw;
+    width:20vw;
+    margin-top:2vw;
+    margin-left:3vw;
+    
+}
+/* #label{
+    font-size: 1vw;
+}
+#name{
+    height:2vw ;
+    width:20vw ;
+} */
+#form
+{
+    height:30vw;
+    width: 20vw;
+}
+@media screen and (max-width:600px) {
+    #form{
+        width:20vw;
+        height:10vw;
+    }
+}

@@ -1,0 +1,40 @@
+#nav{
+    box-shadow: 0px 0px 10px 0px;
+}
+#nav-item{
+    font-size: 18px;
+}
+#footer{
+    color: white;
+    text-align: center;
+}
+#card:hover{
+    box-shadow: 0px 10px 10px 0px;
+}
+#card{
+    box-shadow: 0px 5px 5px 0px;
+}
+#row{
+    margin-left: 6vw;
+}
+#projects{
+    background-color: grey;
+}
+#about{
+    background-color: grey;
+}
+.card-link{
+    color: rgb(86, 135, 37);
+    text-decoration: none;
+}
+.card-link:hover{
+    font-size: large;
+}
+
+.sandy:hover{
+    background-color: black;
+    color: white;
+}
+#img{
+    z-index: 1;
+}
